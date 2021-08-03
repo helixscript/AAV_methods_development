@@ -1,0 +1,112 @@
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~1) 2872 reads pass barcode filter.
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~1) 6509 reads pass linker code filter.
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~1) 166 reads removed by virus read start test filter (15 NTs).
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~1) completed with 427 reads.
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~2) 3681 reads pass barcode filter.
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~2) 6509 reads pass linker code filter.
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~2) 216 reads removed by virus read start test filter (15 NTs).
+[2.4 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-1~GTSP4322~2) completed with 705 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~1) 3396 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~1) 6767 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~1) 221 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~1) completed with 546 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~2) 3417 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~2) 6767 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~2) 200 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-2~GTSP4323~2) completed with 552 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~1) 2419 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~1) 5237 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~1) 127 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~1) completed with 233 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~2) 2860 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~2) 5237 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~2) 137 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-plasmid-3~GTSP4324~2) completed with 423 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~1) 2902 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~1) 4822 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~1) 234 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~1) completed with 807 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~2) 1997 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~2) 4822 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~2) 151 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-1~GTSP4325~2) completed with 500 reads.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~1) 2806 reads pass barcode filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~1) 4698 reads pass linker code filter.
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~1) 143 reads removed by virus read start test filter (15 NTs).
+[2.5 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~1) completed with 1041 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~2) 1962 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~2) 4698 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~2) 143 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-2~GTSP4326~2) completed with 546 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~1) 1578 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~1) 3193 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~1) 112 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~1) completed with 572 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~2) 1647 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~2) 3193 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~2) 116 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector_Klenow-3~GTSP4327~2) completed with 568 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~1) 1764 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~1) 3424 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~1) 35 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~1) completed with 866 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~2) 1703 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~2) 3424 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~2) 29 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-1~GTSP4328~2) completed with 957 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~1) 1264 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~1) 2193 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~1) 15 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~1) completed with 603 reads.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~2) 958 reads pass barcode filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~2) 2193 reads pass linker code filter.
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~2) 12 reads removed by virus read start test filter (15 NTs).
+[2.6 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.7 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-2~GTSP4329~2) completed with 343 reads.
+[2.7 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~1) 1169 reads pass barcode filter.
+[2.7 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~1) 2947 reads pass linker code filter.
+[2.7 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~1) 12 reads removed by virus read start test filter (15 NTs).
+[2.7 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.8 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~1) completed with 671 reads.
+[2.8 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~2) 1830 reads pass barcode filter.
+[2.8 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~2) 2947 reads pass linker code filter.
+[2.8 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~2) 20 reads removed by virus read start test filter (15 NTs).
+[2.8 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.9 minutes]	Chunk 5: (pAAV8-TTRm-8003-Vector-3~GTSP4330~2) completed with 1008 reads.
+[2.9 minutes]	Chunk 5: (NoTemplateControl1~NoTemplateControl1~1) 0 reads pass barcode filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl1~NoTemplateControl1~1) 0 reads pass linker code filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl1~NoTemplateControl1~1) No reads demultiplexed.
+[2.9 minutes]	Chunk 5: (NoTemplateControl1~NoTemplateControl1~2) 0 reads pass barcode filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl1~NoTemplateControl1~2) 0 reads pass linker code filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl1~NoTemplateControl1~2) No reads demultiplexed.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~1) 49 reads pass barcode filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~1) 186 reads pass linker code filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~1) 0 reads removed by virus read start test filter (15 NTs).
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~1)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~1) completed with 38 reads.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~2) 139 reads pass barcode filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~2) 186 reads pass linker code filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~2) 0 reads removed by virus read start test filter (15 NTs).
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~2)  anchor read over read sequence determined to be AGTCCCTTAAG from parsing provided linker sequence.
+[2.9 minutes]	Chunk 5: (NoTemplateControl2~NoTemplateControl2~2) completed with 127 reads.
+[2.9 minutes]	Chunk 5: (NoTemplateControl3~NoTemplateControl3~1) 0 reads pass barcode filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl3~NoTemplateControl3~1) 0 reads pass linker code filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl3~NoTemplateControl3~1) No reads demultiplexed.
+[2.9 minutes]	Chunk 5: (NoTemplateControl3~NoTemplateControl3~2) 0 reads pass barcode filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl3~NoTemplateControl3~2) 0 reads pass linker code filter.
+[2.9 minutes]	Chunk 5: (NoTemplateControl3~NoTemplateControl3~2) No reads demultiplexed.
